@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Michał Ducher
+# Hi there! 👋 I'm Michał 
 
 I'm a 3rd-year Computer Science student with substantial academic experience, specializing in **mobile and web applications**. However, my main focus lies in **backend development** for web services.
 
